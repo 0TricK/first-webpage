@@ -1,0 +1,70 @@
+.top {
+    background-color: #1F2937;
+    color: white;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.header,
+.intro {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 96px;
+}
+
+.intro div img {
+    height: 200px; 
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+div.intro p {
+    font-size: 18px;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 32px;
+}
+
+.division-info {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 0;
+    gap: 24px;
+}
+
+.quotes {
+    background-color: #E5E7EB;
+    padding: 40px;
+    text-align: center;
+}
+
+.sign-up {
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    font-family: sans-serif;
+    align-items: center;
+    padding: 8px 24px;
+    justify-content: space-between;
+}
+
+.divisions img {
+    height: 200px;
+    width: auto;
+}
